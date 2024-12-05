@@ -17,6 +17,7 @@ const Action = Object.freeze({
     Resize: 7,
 });
 
+// yes bro... customize it! that's why it's here and not in loader
 const Color = Object.freeze({
     None: "#00000000",
     Background: "#282A36",
